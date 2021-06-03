@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vox regis, or, The difference betwixt a King ruling by law, and a tyrant by his own will with the excellency of the English laws, rights and priviledges : in two speeches of King James to the Parliaments in 1603 and March 21. 1609 : and in his basilicon doron : which may be an appendix to Vox Populi.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46457</idno><idno type="EEBO-CITATION">13304406</idno>
+  <idno type="VID">98964</idno>
+  <idno type="EEBO-PROQUEST">2240856588</idno>
+  
+            <idno type="STC">Wing J148</idno>
+            <idno type="STC">ESTC R12205</idno>
+            <idno type="OCLC">13304406</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46457)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98964)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 459:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vox regis, or, The difference betwixt a King ruling by law, and a tyrant by his own will with the excellency of the English laws, rights and priviledges : in two speeches of King James to the Parliaments in 1603 and March 21. 1609 : and in his basilicon doron : which may be an appendix to Vox Populi.</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">James --  I, --  King of England, 1566-1625.</term>
+               <term type="topical_term">Divine right of kings --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98964:1"/>
+            <pb facs="tcp:98964:1"/>
+            <p>
+               <hi>Vox Regis:</hi> OR, THE DIFFERENCE BETWIXT A KING Ruling by LAVV, AND A TYRANT BY HIS Own Will: With the Excellency of the <hi>ENGLISH</hi> Laws, Rights and Priviledges. In Two SPEECHES of King <hi>JAMES</hi> to the PARLIAMENTS in 1603. and <hi>March</hi> 21. 1609. And in his <hi>Basilicon Doron.</hi> Which may be an APPENDIX to <hi>Vox Populi.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Francis Smith</hi> at the <hi>Elephant</hi> and <hi>Castle</hi> near the <hi>Royal Exchange</hi> in <hi>Cornhill,</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:98964:2"/>
+            <pb n="1" facs="tcp:98964:2"/>
+            <head>As an APPENDIX to what hath been said in <hi>Vox Populi</hi> (being so much in the Justification thereof) we shall presume to annex part of King <hi>James</hi> his Speeches to the Parliaments in 1603, and 1609. As also his Advice to his Son in his <hi>Bazilicon Doron,</hi> viz.</head>
+            <div type="speech">
+               <head>In his Speech to the Parliament 1603. he expresseth himself in these words, <hi>viz.</hi>
+               </head>
+               <q>
+                  <p>I Do acknowledge that the special and greatest point of difference that is betwixt a righfull King and an usurp<g ref="char:EOLhyphen"/>ing Tyrant, is in this: That whereas the proud and am<g ref="char:EOLhyphen"/>bitious Tyrant doth think his Kingdom and People are only ordained for satisfaction of his desires and unreasonable Ap<g ref="char:EOLhyphen"/>petites, <hi>The righteous and just King doth by the contrary ac<g ref="char:EOLhyphen"/>knowledge himself to be ordained for the procuring of the Wealth and Prosperity of his People; and that his great and principal worldly felicity must consist in their Prosperity:</hi> If you be rich, I cannot be poor; if you be happy, I cannot but be for<g ref="char:EOLhyphen"/>tunate; and I protest your welfare shall ever be my greatest care and contentment. And that I am a Servant, it is most true, that as I am Head and Governour of all the People in my Do<g ref="char:EOLhyphen"/>minion who are my natural Subjects, considering them in distinct ranks, so if we will take in the People as one Body, <hi>then as the Head is ordained for the Body, and not the Body for the Head, so must a Righteous King know himself to be Or<g ref="char:EOLhyphen"/>dained for his People, and not his People for him.</hi>
+                  </p>
+                  <p>Wherefore, I will never be ashamed to confess it my <hi>prin<g ref="char:EOLhyphen"/>cipal Honour to be the great Servant of the Common-wealth,</hi> and ever think the Prosperity thereof to be my greatest Feli<g ref="char:EOLhyphen"/>city, <hi>&amp;c.</hi>
+                  </p>
+               </q>
+            </div>
+            <div type="speech">
+               <head>In his Speech to the Parliament, <hi>March</hi> 21. 1609. he expresseth him<g ref="char:EOLhyphen"/>self as followeth.</head>
+               <q>
+                  <p>IN these our times we are to distinguish betwixt the State of Kings in the first Original, and between the State of settled Kings and Monarchs, that do at this time Govern in Civil Kingdoms: For even as God during the time of the Old Testament, spake by Oracles and wrought by Miracles,
+<pb n="2" facs="tcp:98964:3"/> yet how soon it pleased him to settle a Church (which was bought and Redeemed by the Blood of his only Son Christ) then was there a cessation of both: He ever after Govern<g ref="char:EOLhyphen"/>ing his Church and People within the limits of his <hi>revealed Will.</hi> So in the first Original of Kings, whereof some had their beginning by <hi>Conquest,</hi> and some by <hi>Election</hi> of the People, their Wills at that time served for a Law; yet how soon Kingdoms began to be settled in Civility and Policy, then did Kings set down their Minds by Laws, which are pro<g ref="char:EOLhyphen"/>perly made by the King only; but at the Rogation of the people, the Kings Grant being obtained thereunto; and so the King came to be <hi>Lex loquens,</hi> a speaking Law, after a sort binding himself by a double <hi>Oath</hi> to the observation of the <hi>Fundamental Laws</hi> of his Kingdom: Tacitly as by be<g ref="char:EOLhyphen"/>ing a King, and so bound to protect as well the People as the Laws of his Kingdom; and expresly by his <hi>Oath</hi> at his Coronation: so as every just King in a settled Kingdom is bound to observe that <hi>Paction</hi> made to his People by his Laws, in framing his Government agreeable thereunto, according to that Paction which God made with <hi>Noah</hi> after the deluge: <hi>Hereafter Seed-time and Harvest, Summer and Winter, Cold and Heat, Day and Night shall not cease, so long as the Earth re<g ref="char:EOLhyphen"/>mains. And therefore a King Governing in a settled Kingdom; leaves to be a King and degenerates into a Ty<g ref="char:EOLhyphen"/>rant as soon as he leaves off to Rule according to his Laws.</hi> In which case the Kings Conscience may speak unto him as the poor Widow said to <hi>Philip</hi> of <hi>Macedon,</hi> Either Govern according to your Law, <hi>aut ne Rex<gap reason="illegible" resp="#oxf" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>sis,</hi> or cease to be King; and though no Christian man ought to allow any Rebellion of People against their Prince, yet doth God never leave Kings unpunished when they transgress these limits. For in that same <hi>Psalm</hi> where God saith to Kings, <hi>Vos dii estis, Ye are Gods,</hi> he immediately thereafter concludes, <hi>But ye shall dye like men:</hi> the higher we are placed, the greater shall our fall be; <hi>Ʋt casus sic dolor,</hi> as the fall, so the grief, the taller the Trees be, the more in danger of the Wind; and the tempest beats sorest upon the highest Mountains. <hi>Therefore all Kings that are no Tyrants or Perjured, will be glad to bound themselves within the limits of their Laws, and</hi>
+                     <pb n="3" facs="tcp:98964:3"/>
+                     <hi>they that perswade them the contrary, are Vipers and Pests both against them and the Common-wealth.</hi> For it is a great difference betwixt a Kings Government in a settled Estate; and what Kings in their Original power might do in <hi>Indivi<g ref="char:EOLhyphen"/>dio vago:</hi> As for my part, I thank God I have ever given good proof that I never had intention to the contrary: And I am sure to go to my grave with that reputation and comfort, that never King was in all his time more careful to have his Laws duely observed, and himself to Govern thereafter, than I.</p>
+                  <p>That Just Kings will ever be willing to declare what they will do, if they will not incur the Curse of God. I will not be content that my power be disputed upon, but I shall ever be willing to make the reason appear of all my doings, and Rule my actions according to the Laws.</p>
+               </q>
+               <p>And afterwards speaking of the Common Law of <hi>England,</hi> which some conceived he contemned, saith to this purpose.</p>
+               <q>
+                  <p>That as a King he had least cause of any man to dislike the Common Law: for no Law can be more favourable and ad<g ref="char:EOLhyphen"/>vantageous for a King, and extendeth further his Prerogative, than it doth; and for a King of <hi>England</hi> to despise the Com<g ref="char:EOLhyphen"/>mon Law, it is to neglect his own <hi>Crown.</hi> It is true, that no Kingdom in the world but every one of them hath their own Municipal Laws agreeable to their Customs, as this King<g ref="char:EOLhyphen"/>dom hath the Common Law. Nay, I am so far from disal<g ref="char:EOLhyphen"/>lowing the Common Law, as I protest that if it were in my hand to choose a new Law for this Kingdom, I would not only prefer it before any other National Law, but even before the very Judicial Law of <hi>Moses,</hi> for conveniency to this King<g ref="char:EOLhyphen"/>dom at this time, though in another respect I must say, both our Law and all Laws else are very inferior to that Judicial Law of God; for no Book nor Law is perfect nor free from corruption, except only the Book and Law of God. And therefore I could wish that some corruptions might be purged and cleared in the Common Law, but alwayes by the advice of Parliaments; for the King with his Parliament here are abso<g ref="char:EOLhyphen"/>lute in making or forming of any sort of Laws.</p>
+                  <p>First, I could wish that it were written in our Vulgar Lan<g ref="char:EOLhyphen"/>guage; for now it is an Old mixt corrupt Language, only un<g ref="char:EOLhyphen"/>derstood
+<pb n="4" facs="tcp:98964:4"/> by Lawyers: whereas every Subject ought to under<g ref="char:EOLhyphen"/>stand the Law under which he lives: for since it is our Plea against the Papists, that the Language in Gods Service ought not to be in an unknown Tongue, according to the Rule in the Law of <hi>Moses,</hi> that the Law should be written in the fringes of the Priests Garment, and should be publickly read in the ears of all the people; so me thinks ought our Law to be made as plain as can be to the People, that the excuse of Ignorance may be taken from them for conforming themselves thereunto.</p>
+                  <p>Next, our Common Law hath not a settled Text, being chiefly grounded upon Old Customs, which you call <hi>Respon<g ref="char:EOLhyphen"/>sa Prudentum — </hi>I could wish that some more certain were set down in this case by Parliament: for since the Reports themselves are not alwayes so binding, but that diverse times Judges do disclaim them, and recede from the Judgment of their Predecessors: it were good that upon a mature delibe<g ref="char:EOLhyphen"/>ration the Exposition of the Law were set down by Act of Par<g ref="char:EOLhyphen"/>liament, and such Reports therein confirmed as were thought sit to serve for Law in all times hereafter, and so the people should not depend upon the bare Opinions of Judges, and un<g ref="char:EOLhyphen"/>certain Reports.</p>
+                  <p>And lastly, there be in the Law contrary Reports and Presi<g ref="char:EOLhyphen"/>dents; and this corruption doth likewise concern the Statutes and Acts of Parliament, in respect there are divers cross and cuffing Statutes, and some so penn'd as they may be taken in diverse yea contrary sences. And therefore would I wish both those Statutes and Reports, as well in the Parliament as Common Law, to be once materially Reviewed and Reconciled.</p>
+                  <p>And that not only Contrarieties should be scraped out of our Books, but that even such penal Statutes as were made but for the use of the time (for breach whereof no man can be free) which do not now agree which the condition of this our time, might likewise be left out of our Books, which under a Tyrannous and avaritious King could not be endured.</p>
+                  <p>And this Reformation might, we think, be made a worthy work, and well deserves a Parliament to be set of purpose for it, <hi>&amp;c.</hi>
+                  </p>
+                  <p>And as to the point of Grievances tells them, "That there are two special causes of the peoples presenting Grievances to their King in time of Parliament.</p>
+                  <pb n="5" facs="tcp:98964:4"/>
+                  <p>First, for that the King cannot at other times be so well informed of all the Grievances of his People, as in time of <hi>Parliament,</hi> which is the Representative Body of the whole Realm. Secondly, the Parliament is the highest Court of Justice, and therefore the fittest place where divers natures of Grievances may have their proper remedy by the establish<g ref="char:EOLhyphen"/>ment of good and wholsome Laws: Wherein he addresses himself especially to the lower House, who as representing the Body of the People, may as it were both <hi>Oppotunè</hi> &amp; <hi>Inoppor<g ref="char:EOLhyphen"/>tunè,</hi> in season and out of season; I mean either in Parliament as a Body, or out of Parliament as private men, present your grievances unto me. —</p>
+                  <p>I am not to find fault that you inform your selves of the par<g ref="char:EOLhyphen"/>particular Grievances of the people: <hi>Nay I must tell you, ye can neither be just nor faithful to me or to your Countryes that trust and imploy you, if you do not; for true plaints proceed not from the persons imployed, but from the Body represented, which is the People.</hi> And it may very well be, that many Di<g ref="char:EOLhyphen"/>rections and Commissions justly given forth by me, may be abused in the execution thereof upon the People, and yet I never to receive information, except it come by your means at such a time as this is.</p>
+               </q>
+            </div>
+            <div type="advice">
+               <head>To which we may add what he saith to his Son, in his <hi>Basilikon Doron,</hi> p. 155, 156, of his Works, <hi>viz.</hi>
+               </head>
+               <q>
+                  <p>For the part of making and Executing of Laws, consider first the true difference betwixt a Lawful King and a Usurping Tyrant, and ye shall the more easily understand your Duty herein; for <hi>contraria juxta se posita magis elucescunt.</hi> The one acknowledgeth himself Ordained for his People, having re<g ref="char:EOLhyphen"/>ceived from God a burden of Government, whereof he must be accountable: The other thinketh his People Ordained for him, a prey to his Passions and inordinate Appetites, as the Fruits of his Magnanimity: And therefore as their ends are directly contrary, so are their whole Actions, as means where<g ref="char:EOLhyphen"/>by they press to attain to their ends: A good King thinketh the highest Honour to consist in the due discharge of his Call<g ref="char:EOLhyphen"/>ing, imployeth all by Study and Pains to procure and maintain, by the making and Execution of good Laws, the Welfare and Peace of his People; and as their natural Father and kindly
+<pb n="6" facs="tcp:98964:5"/> Master, thinketh his greatest contentment, standeth in their Pro<g ref="char:EOLhyphen"/>sperity, and his greatest surety in having their hearts, subject<g ref="char:EOLhyphen"/>ing his own private affections and Appetites to the Weal and standing of his Subjects, ever thinking the Common Interest his chiefest particular: Whereby the contrary, an Usurping Tyrant thinking his greatest Honour and Felicity to consist in attaining, <hi>per fas aut nefas,</hi> to his ambitious pretences, think<g ref="char:EOLhyphen"/>eth never himself sure but by the Dissention and Factions a<g ref="char:EOLhyphen"/>mong his People, and Counterfeiting the Saint while he once creep in Credit, will then (by inverting all good Laws to serve only his unruly private Affections) frame the Common Weal ever to advance his particular, building his surety upon his Peoples Misery; and in the end (as a Step-Father and an uncouth Hireling) make up his own hand upon the Ruins of the Republick; and according to their Actions so receive they their Reward.</p>
+                  <p>For a good King after a happy Reign, Dieth in Peace, La<g ref="char:EOLhyphen"/>mented by his Subjects, admired by his Neighbours, and leaving a reverence behind him on Earth, obtaineth the Crown of Eternal Felicity in Heaven. And although some of them (which falleth out very rarely) may be cut off by the Trea<g ref="char:EOLhyphen"/>son of some unnatural Subjects, yet liveth their fame after them, and some notable plague faileth never to overtake the committers in this life, besides their infamy to all posterities hereafter.</p>
+                  <p>Whereby the contrary, a Tyrants miserable and infamous life armeth in the end his own Subjects to become by Burre<g ref="char:EOLhyphen"/>aux; and although that Rebellion be ever unlawful on their part, yet is the world so wearied of him, that his fall is little meaned by the rest of his Subjects, and but smiled at by his Neighbours. And besides, the infamous memory he leaveth behind him here, and the endless pain he sustaineth hereafter, it oft falleth out, that the Committers not only escape unpu<g ref="char:EOLhyphen"/>nished, but further, the fact will remain as allowed by the Law in divers ages thereafter.</p>
+                  <p>It is easie then for you, my Son, to make a choice of one of these two sorts of Rulers, by following the way of Vertue to establish your standing.</p>
+               </q>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
